@@ -14,3 +14,9 @@
 ### BasicErrorController 통한 예외 처리
 - 뷰 템플릿 생성 후 자동 적용
 
+
+### API 구현시 예외 처리
+- HandlerExceptionResolver 통한 API 예외 처리 구현
+- ResponseStatusExceptionResolver 통한 API 예외 처리 구현
+- DefaultHandlerExceptionResolver 통한 API 예외 처리 구현
+- ExceptionHandler + ControllerAdvice 통한 API 예외 처리 구현
